@@ -14,7 +14,7 @@
     "react": "16.3.1",
     "react-addons-shallow-compare": "^15.6.2",
     "react-localization": "^1.0.10",
-    "react-native": "^0.55.4",
+    "react-native": "^0.70.2",
     "react-native-calendars": "^1.21.0",
     "react-native-circular-progress": "^1.0.1",
     "react-native-keyboard-aware-scrollview": "^2.0.0",
